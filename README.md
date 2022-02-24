@@ -8,6 +8,8 @@ Okomentujeme také Markdown
 
 Toto píši na lokálním počítači v místní kopii repozitáře.
 
+Také přidám řádek - to způsobí kolizi.
+
 ## Markdown
 - rychlý
 - jednoduchý
